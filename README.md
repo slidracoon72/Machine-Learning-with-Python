@@ -1,4 +1,4 @@
-# coursera_capstone_project
+# Machine Learning With Python
 
 Final project of IBM's course https://www.coursera.org/learn/machine-learning-with-python on Coursera  
 
